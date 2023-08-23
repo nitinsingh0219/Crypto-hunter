@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# [Coiner - Crypto Tracker React App](https://nitin-singh-coiner.netlify.app/astar)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Coiner Screenshot](screenshot.png)
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+Coiner is a cryptocurrency tracker React application built using SCSS, JavaScript (JSX), and React. It leverages the CoinGecko API to provide real-time data for various cryptocurrencies, enabling users to monitor prices, market capitalization, and more.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Real-time price tracking for multiple cryptocurrencies.
+- Display of market capitalization data.
+- Responsive design that ensures compatibility with different devices.
+- Search functionality to quickly find specific cryptocurrencies.
+- Detailed information including 24-hour volume and price changes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- React: JavaScript library for building user interfaces.
+- JSX: JavaScript syntax extension used with React.
+- SCSS: Syntactically Awesome Style Sheets.
+- CoinGecko API: Cryptocurrency data platform providing real-time and historical data.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Folder Structure
 
-### `npm run build`
+The project follows this folder structure:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- `src/`
+  - `components/`: Reusable React components.
+  - `helpers/`: JS file for helping in making in app.
+  - `pages/`: JSX code written for different pages.
+  - `stores/`: Connecting pages to API.
+  - `index.js`: Entry point of the application.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Contributions to Coiner are welcome! If you find bugs or want to add features, please open issues and pull requests in the repository.
 
-### `npm run eject`
+Please adhere to the [code of conduct](CODE_OF_CONDUCT.md) when contributing.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## License
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Coiner is open-source software licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Thank you for using Coiner! Feel free to contact me with any questions.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[GitHub Repository](https://github.com/nitinsingh0219/Crypto-hunter.git)
