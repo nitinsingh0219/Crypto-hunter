@@ -1,6 +1,10 @@
 # [Coiner - Crypto Tracker React App](https://nitin-singh-coiner.netlify.app/astar)
 
-![Coiner Screenshot](screenshot.png)
+## Screenshots
+
+![Coiner Screenshot](public/homepage.png)
+
+![Coiner Screenshot](public/trackingpage.png)
 
 ## Description
 
