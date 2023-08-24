@@ -1,4 +1,4 @@
-# [Coiner - Crypto Tracker React App](https://nitin-singh-coiner.netlify.app/astar)
+# [Coiner - Crypto Tracker React App](https://nitin-singh-coiner.netlify.app)
 
 ## Screenshots
 
